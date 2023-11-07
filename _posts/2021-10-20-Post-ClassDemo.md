@@ -1,23 +1,21 @@
 ---
 layout: posts
-title: مصاحبه با آقای بیات‌خانی
+title: movie suggestion
 ---
 
 ## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
+acters who played in this movie:
+- Jonny Depp
+- Will Turner
+- Elizabet Swann
 
 [my favorite website](http://www.google.com)
 
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
+Name : Pirates of the Caribbean
 
 
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+![alt text](../assets/images/nf00071411-3.jpg "Team Picture")
 
 ---
-**Test**: This is atest
+**Test**: This is the movie poster

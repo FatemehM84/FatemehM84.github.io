@@ -2,34 +2,36 @@
 layout: single
 author_profile: true
 permalink: /cv/
-title: Resume
+title: Resume,information
 tags: [resume, cv]
 modified: 4-14-2019
 comments: false
 ---
 
 
-# ekhteshash
+# Badminton , Swim
+i can play badminton professionally
+i can swim 
 
-werwe
-rwe
+## physics
+among my subjects, i like physics the most
 
-## Tehran
-lsdfksd
 
-### Azadi
-### Enghelab
+### IUST
+my university is IUST
 
-- mored 1
-- mored 2
+### Positive things about the university
+
+- The beautiful environment
+- The expert professors
 
 My favorite website is [yahoo](http://www.yahoo.com).
 
 
-## Esfahan
-ldkfjs
+## HAMADAN
+ I'm from Hamedan
 
-![Painting](https://maysagharehgozli.github.io/assets/images/photo.jpg)
+![Painting](/assets/images/original.jpg)
 
 
 <iframe width="1691" height="680" src="https://www.youtube.com/embed/LOTtWzX3Wp4" title="The STRANGE Reason He's The World's Best Climber" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -37,4 +39,4 @@ ldkfjs
 
 |  Number | Name |
 |---------|------|
-|1        | Ali  |
+|1        | ---- |

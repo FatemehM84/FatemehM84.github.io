@@ -1,8 +1,8 @@
 ---
 layout: posts
-title: در کلاس چه گذشت
+title: my daily work
 ---
 
-- We wrote some code
-- We built our website
-- We pushed
+- drink tea
+- enjoy the university path
+- do my homework
