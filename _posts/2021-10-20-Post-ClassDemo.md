@@ -2,20 +2,17 @@
 layout: posts
 title: movie suggestion
 ---
+# Name : Pirates of the Caribbean
 
-## This is my team at Microsoft
-acters who played in this movie:
+
+## acters who played in this movie:
 - Jonny Depp
 - Will Turner
 - Elizabet Swann
 
-[my favorite website](http://www.google.com)
+[my favorite website](https://www.plaza.ir/140003/358907/pirates-of-the-caribbean-film-series-download-cast-plot-review/)
 
-Name : Pirates of the Caribbean
-
-
-
-![alt text](../assets/images/nf00071411-3.jpg "Team Picture")
+![alt text](../assets/images/nf00071411-3.jpg "movie Picture")
 
 ---
 **Test**: This is the movie poster

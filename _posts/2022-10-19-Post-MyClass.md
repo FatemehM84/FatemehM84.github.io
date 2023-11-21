@@ -1,8 +1,9 @@
 ---
 layout: posts
-title: my daily work
+title: my daily workس
 ---
 
 - drink tea
 - enjoy the university path
-- do my homework
+- do my homeworks
+- whatching movie

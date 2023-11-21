@@ -1,23 +1,12 @@
 ---
 layout: posts
-title: Test Post
+title: pleasant environment
 ---
-
-## This is my team at Microsoft
-People in the picture are:
-- Arul
-- Fai
-- Scott
-- Me
-
-[my favorite website](http://www.google.com)
-
-kajsdlfk jsaldfkj saldkjflaskdjflaskjdlfkasjdlfkjasdl fjsad fkajsldkfjlaskdj flakjds fksad flaksj dlfkjads l
-kfajdskfajsdf sakd fjksad jfksdj fksdj f
+There are places on the planet that were created only for watching, not for living, not for painting, and not for anything else, because only the eyes should record it.
 
 
 
-![alt text](../assets/images/grouppic.jpg "Team Picture")
+![alt text](../assets/images/405262df-7a82-4fa8-9482-dcb426ed4d3e.jpeg "environment Picture")
 
 ---
-**Test**: This is atest
+**Test**: This is a beautiful place
