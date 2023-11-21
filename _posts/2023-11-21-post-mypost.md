@@ -14,7 +14,7 @@ title: working with turtle library
 <br><br>
 
 ## they are my triangle codes:
-<pre style="font-size: 25; text-align:left;"> 
+<div style="font-size: 25; text-align:left;"> 
 import turtle as t
 
 
@@ -31,14 +31,14 @@ def triangle(d):
 
 triangle(200)
 t.mainloop()
-</pre>
+</div>
 
 ![alt text](../assets/images/Untitled%20(2).jpg "triangle Picture")
 
 <br><br>
 
 ## they are my tree codes:
-<pre style="font-size: 25; text-align:left;">
+<div style="font-size: 25; text-align:left;">
 import turtle as t
 
 def setare(n,d):
@@ -82,7 +82,7 @@ t.penup()
 t.update()
 t.backward(140)
 t.mainloop()
-</pre>
+</div>
 
 
 <br><br>
