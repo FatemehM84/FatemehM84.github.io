@@ -11,10 +11,9 @@ title: working with turtle library
 </h4>
 
 
-<br><br>
+<h2  style="text-align:left;"> they are my triangle codes: </h2>
+<pre style="font-size: 25; text-align:left;"> 
 
-## they are my triangle codes:
-<div style="font-size: 25; text-align:left;"> 
 import turtle as t
 
 
@@ -31,14 +30,13 @@ def triangle(d):
 
 triangle(200)
 t.mainloop()
-</div>
+</pre>
 
-![alt text](../assets/images/Untitled%20(2).jpg "triangle Picture")
+![alt text](/assets/images/Untitled%20(2).jpg)
 
-<br><br>
 
-## they are my tree codes:
-<div style="font-size: 25; text-align:left;">
+<h2  style="text-align:left;"> they are my tree codes: </h2>
+<pre style="font-size: 25; text-align:left;">
 import turtle as t
 
 def setare(n,d):
@@ -82,21 +80,17 @@ t.penup()
 t.update()
 t.backward(140)
 t.mainloop()
-</div>
+</pre>
 
 
-<br><br>
+![alt text](/assets/images/Screenshot%20(351).jpg)
 
-![alt text](../assets/images/Screenshot%20(351).jpg "tree Picture")
-
-## My jungle code is very long, but the result is this image
-<br>
-
-![alt text](../assets/images/Screenshot%20(9).jpg "gungle Picture")
+<h2  style="text-align:left;"> My jungle code is very long, but the result is this image </h2>
 
 
-<br><br>
+![alt text](/assets/images/Screenshot%20(9).jpg)
 
-[my favorite website about turtle library color](https://suherfe.blog.ir/post/color-turtle)
+
+* [my favorite website about turtle library color](https://suherfe.blog.ir/post/color-turtle)
 
 
