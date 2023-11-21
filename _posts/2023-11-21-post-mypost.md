@@ -11,6 +11,7 @@ title: working with turtle library
 
 
 
+<br><br>
 
 ## they are my triangle codes:
 <pre style="font-size: 25; text-align:left;"> 
@@ -34,6 +35,7 @@ t.mainloop()
 
 ![alt text](../assets/images/Untitled%20(2).jpg "triangle Picture")
 
+<br><br>
 
 ## they are my tree codes:
 <pre style="font-size: 25; text-align:left;">
@@ -83,14 +85,17 @@ t.mainloop()
 </pre>
 
 
+<br><br>
 
 ![alt text](../assets/images/Screenshot%20(351).jpg "tree Picture")
 
 ## My jungle code is very long, but the result is this image
+<br>
 
 ![alt text](../assets/images/Screenshot%20(9).jpg "gungle Picture")
 
 
+<br><br>
 
 [my favorite website about turtle library color](https://suherfe.blog.ir/post/color-turtle)
 
