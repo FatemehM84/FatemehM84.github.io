@@ -10,8 +10,10 @@ title: working with turtle library
 برای کشیدن جنگل مکان ها و رنگ هارو رندوم انتخاب کرده و سعی میکنیم جنگلی که میخواهیم را با جابه جا کردن دستور هایی که نوشتیم بدست بیاریم
 
 
+
+
 ## they are my triangle codes:
-<pre style="font-size: 25; " > 
+<pre style="font-size: 25; text-align:left;"> 
 import turtle as t
 
 
@@ -34,7 +36,7 @@ t.mainloop()
 
 
 ## they are my tree codes:
-<pre style="font-size: 25; ">
+<pre style="font-size: 25; text-align:left;">
 import turtle as t
 
 def setare(n,d):

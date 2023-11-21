@@ -1,6 +1,6 @@
 ---
 layout: posts
-title: my daily workس
+title: my daily works
 ---
 
 - drink tea
