@@ -9,7 +9,7 @@ comments: false
 ---
 
 
-* [my favorite website about every things](https://www.youtube.com/)
-* [Twins Association website](https://www.irtwins.com/)
-* [Badminton Federation website](https://www.irtwins.com/)
+* [my favorite website about every things](https://www.youtube.com)
+* [Twins Association website](https://www.irtwins.com)
+* [Badminton Federation website](https://www.irtwins.com)
 
