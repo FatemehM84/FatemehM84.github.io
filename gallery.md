@@ -33,4 +33,4 @@ gallery:
     title: "Image 6 title caption"  
 ---
 
-{% inclide galllery caption="This is a sample gallery with **Markdown support**." %}
+{% include gallery caption="This is a sample gallery with **Markdown support**." %}
