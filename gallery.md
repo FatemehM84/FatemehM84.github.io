@@ -27,10 +27,10 @@ gallery:
     image_path: /assets/images/5.jpg
     alt: "placeholder image 5"
     title: "Image 5 title caption"    
-  # - url: /assets/images/6.jfif
-  #   image_path: /assets/images/6.jfif
-  #   alt: "placeholder image 6"
-  #   title: "Image 6 title caption"  
+  - url: /assets/images/6.jfif
+    image_path: /assets/images/6.jfif
+    alt: "placeholder image 6"
+    title: "Image 6 title caption"  
 ---
 
 
